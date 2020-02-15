@@ -1,0 +1,11 @@
+.main-btn {
+    height: 25px;
+    border-radius: 10px;
+    display: inline;
+    padding: 3px 8px 3px 8px;
+    font-size: 15px;
+}
+
+.capitaliza {
+    text-transform: capitalize;
+}

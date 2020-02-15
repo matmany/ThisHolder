@@ -2,4 +2,4 @@
     $(function(){
         $('.parallax').parallax(); 
     });
-});
+})(jQuery);
