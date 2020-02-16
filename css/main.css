@@ -5,7 +5,51 @@
     padding: 3px 8px 3px 8px;
     font-size: 15px;
 }
+.brand-logo {
+    float: right !important;
+}
+nav {
+    margin-bottom: 50px;
+}
+
+.nav-btns{
+    margin-top: 20px;
+}
+.menu-btn{
+    margin-top: 20px;
+}
+.img-container {
+    height: 415px;
+}
+.btn{
+    transition: 0.3s;
+}
+.btn:hover {
+    opacity: 1;
+    background-color: red;
+}
+
+.main-text {
+    font-size: 20px;
+}
 
 .capitaliza {
     text-transform: capitalize;
+}
+
+.remove-shadow {
+    -webkit-box-shadow: 0 0 0 0;
+    box-shadow: 0 0 0 0;
+}
+
+.holder-color {
+    color: #01163F;
+}
+
+.holder-color-back {
+    background-color: #01163F;
+}
+
+.blur{
+    filter:blur(5px);
 }
