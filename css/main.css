@@ -1,9 +1,10 @@
 .main-btn {
     height: 25px;
-    border-radius: 10px;
     display: inline;
     padding: 3px 8px 3px 8px;
-    font-size: 15px;
+    font-size: 20px;
+    font-weight: 600;
+    margin-right: 60px;
 }
 .brand-logo {
     float: right !important;
@@ -69,6 +70,8 @@ li {
 .holder-color-back {
     background-color: #01163F;
 }
+
+
 
 .blur{
     filter:blur(5px);
